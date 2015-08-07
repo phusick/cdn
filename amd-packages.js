@@ -7,5 +7,3 @@ require({packages: [
     { name: "data", location: "https://cdn.rawgit.com/phusick/cdn/jsfiddle/data"}
     ]
 });
-
-// https://cdn.rawgit.com/dojo/dijit/1.8.0/themes/claro/claro.css
